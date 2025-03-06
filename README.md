@@ -62,7 +62,7 @@ This project builds a machine learning model to recommend suitable crops based o
 1.  Clone the repository.
 2.  Create and activate a virtual environment.
 3.  Install dependencies: `pip install -r requirements.txt`
-4.  Run the Jupyter Notebook: `jupyter notebook notebooks/crop_recommendation.ipynb`
+4.  Run the Jupyter Notebook: `jupyter notebook crop_recommendation.ipynb`
 
 ## Conclusion
 
